@@ -1,0 +1,7 @@
+{
+    "cmake.ctest.testExplorerIntegrationEnabled": true,
+    "cmake.ctest.allowParallelJobs": true,
+    "cmake.useCMakePresets": "always",
+    "cmake.options.statusBarVisibility": "compact",
+    "files.associations": {}
+}
